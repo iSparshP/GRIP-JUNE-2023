@@ -1,2 +1,2 @@
 # GRIP-JUNE-2023
-This repository is for my internship at The Spark Foundation.
+"The Sparks Foundation" - Data Science and Business Analytics
